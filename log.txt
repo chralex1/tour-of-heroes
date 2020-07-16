@@ -1,0 +1,209 @@
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../myapp/.editorconfig
+	deleted:    ../myapp/.gitignore
+	deleted:    ../myapp/.vscode/settings.json
+	deleted:    ../myapp/README.md
+	deleted:    ../myapp/angular.json
+	deleted:    ../myapp/browserslist
+	deleted:    ../myapp/e2e/protractor.conf.js
+	deleted:    ../myapp/e2e/src/app.e2e-spec.ts
+	deleted:    ../myapp/e2e/src/app.po.ts
+	deleted:    ../myapp/e2e/tsconfig.json
+	deleted:    ../myapp/karma.conf.js
+	deleted:    ../myapp/package-lock.json
+	deleted:    ../myapp/package.json
+	deleted:    ../myapp/src/app/app-routing.module.ts
+	deleted:    ../myapp/src/app/app.component.css
+	deleted:    ../myapp/src/app/app.component.html
+	deleted:    ../myapp/src/app/app.component.scss
+	deleted:    ../myapp/src/app/app.component.spec.ts
+	deleted:    ../myapp/src/app/app.component.ts
+	deleted:    ../myapp/src/app/app.module.ts
+	deleted:    ../myapp/src/app/product-alerts/product-alerts.component.css
+	deleted:    ../myapp/src/app/product-alerts/product-alerts.component.html
+	deleted:    ../myapp/src/app/product-alerts/product-alerts.component.ts
+	deleted:    ../myapp/src/app/product-list/product-list.component.css
+	deleted:    ../myapp/src/app/product-list/product-list.component.html
+	deleted:    ../myapp/src/app/product-list/product-list.component.ts
+	deleted:    ../myapp/src/app/products.ts
+	deleted:    ../myapp/src/app/top-bar/top-bar.component.css
+	deleted:    ../myapp/src/app/top-bar/top-bar.component.html
+	deleted:    ../myapp/src/app/top-bar/top-bar.component.ts
+	deleted:    ../myapp/src/assets/.gitkeep
+	deleted:    ../myapp/src/assets/shipping.json
+	deleted:    ../myapp/src/environments/environment.prod.ts
+	deleted:    ../myapp/src/environments/environment.ts
+	deleted:    ../myapp/src/favicon.ico
+	deleted:    ../myapp/src/index.html
+	deleted:    ../myapp/src/karma.conf.js
+	deleted:    ../myapp/src/main.ts
+	deleted:    ../myapp/src/polyfills.ts
+	deleted:    ../myapp/src/styles.css
+	deleted:    ../myapp/src/styles.scss
+	deleted:    ../myapp/src/test.ts
+	deleted:    ../myapp/src/tsconfig.app.json
+	deleted:    ../myapp/src/tsconfig.spec.json
+	deleted:    ../myapp/ts-hello/main.js
+	deleted:    ../myapp/ts-hello/main.ts
+	deleted:    ../myapp/tsconfig.app.json
+	deleted:    ../myapp/tsconfig.json
+	deleted:    ../myapp/tsconfig.spec.json
+	deleted:    ../myapp/tslint.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../.angular-config.json
+	../.bash_history
+	../.config/
+	../.gitconfig
+	../.gitignore
+	../.node_repl_history
+	../.vscode/
+	../3D Objects/
+	../AppData/
+	../Contacts/
+	../Desktop/
+	../Documents/
+	../Downloads/
+	../Favorites/
+	../IdeaProjects/
+	../Links/
+	../MicrosoftEdgeBackups/
+	../Music/
+	../NTUSER.DAT
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.0.regtrans-ms
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.1.regtrans-ms
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.2.regtrans-ms
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.blf
+	../NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TM.blf
+	../NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000001.regtrans-ms
+	../NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000002.regtrans-ms
+	../NTUSER.DAT{2189b89e-98ca-11e9-96d6-0087114746a2}.TM.blf
+	../NTUSER.DAT{2189b89e-98ca-11e9-96d6-0087114746a2}.TMContainer00000000000000000001.regtrans-ms
+	../NTUSER.DAT{2189b89e-98ca-11e9-96d6-0087114746a2}.TMContainer00000000000000000002.regtrans-ms
+	../OneDrive/
+	../Pictures/
+	../Saved Games/
+	../Searches/
+	../Videos/
+	../git_project/
+	../my-app/
+	../ntuser.dat.LOG1
+	../ntuser.dat.LOG2
+	../ntuser.ini
+	../package-lock.json
+	log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   log.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../myapp/.editorconfig
+	deleted:    ../myapp/.gitignore
+	deleted:    ../myapp/.vscode/settings.json
+	deleted:    ../myapp/README.md
+	deleted:    ../myapp/angular.json
+	deleted:    ../myapp/browserslist
+	deleted:    ../myapp/e2e/protractor.conf.js
+	deleted:    ../myapp/e2e/src/app.e2e-spec.ts
+	deleted:    ../myapp/e2e/src/app.po.ts
+	deleted:    ../myapp/e2e/tsconfig.json
+	deleted:    ../myapp/karma.conf.js
+	deleted:    ../myapp/package-lock.json
+	deleted:    ../myapp/package.json
+	deleted:    ../myapp/src/app/app-routing.module.ts
+	deleted:    ../myapp/src/app/app.component.css
+	deleted:    ../myapp/src/app/app.component.html
+	deleted:    ../myapp/src/app/app.component.scss
+	deleted:    ../myapp/src/app/app.component.spec.ts
+	deleted:    ../myapp/src/app/app.component.ts
+	deleted:    ../myapp/src/app/app.module.ts
+	deleted:    ../myapp/src/app/product-alerts/product-alerts.component.css
+	deleted:    ../myapp/src/app/product-alerts/product-alerts.component.html
+	deleted:    ../myapp/src/app/product-alerts/product-alerts.component.ts
+	deleted:    ../myapp/src/app/product-list/product-list.component.css
+	deleted:    ../myapp/src/app/product-list/product-list.component.html
+	deleted:    ../myapp/src/app/product-list/product-list.component.ts
+	deleted:    ../myapp/src/app/products.ts
+	deleted:    ../myapp/src/app/top-bar/top-bar.component.css
+	deleted:    ../myapp/src/app/top-bar/top-bar.component.html
+	deleted:    ../myapp/src/app/top-bar/top-bar.component.ts
+	deleted:    ../myapp/src/assets/.gitkeep
+	deleted:    ../myapp/src/assets/shipping.json
+	deleted:    ../myapp/src/environments/environment.prod.ts
+	deleted:    ../myapp/src/environments/environment.ts
+	deleted:    ../myapp/src/favicon.ico
+	deleted:    ../myapp/src/index.html
+	deleted:    ../myapp/src/karma.conf.js
+	deleted:    ../myapp/src/main.ts
+	deleted:    ../myapp/src/polyfills.ts
+	deleted:    ../myapp/src/styles.css
+	deleted:    ../myapp/src/styles.scss
+	deleted:    ../myapp/src/test.ts
+	deleted:    ../myapp/src/tsconfig.app.json
+	deleted:    ../myapp/src/tsconfig.spec.json
+	deleted:    ../myapp/ts-hello/main.js
+	deleted:    ../myapp/ts-hello/main.ts
+	deleted:    ../myapp/tsconfig.app.json
+	deleted:    ../myapp/tsconfig.json
+	deleted:    ../myapp/tsconfig.spec.json
+	deleted:    ../myapp/tslint.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../.angular-config.json
+	../.bash_history
+	../.config/
+	../.gitconfig
+	../.gitignore
+	../.node_repl_history
+	../.vscode/
+	../3D Objects/
+	../AppData/
+	../Application Data/
+	../Contacts/
+	../Cookies/
+	../Desktop/
+	../Documents/
+	../Downloads/
+	../Favorites/
+	../IdeaProjects/
+	../Links/
+	../Local Settings/
+	../MicrosoftEdgeBackups/
+	../Music/
+	../My Documents/
+	../NTUSER.DAT
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.0.regtrans-ms
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.1.regtrans-ms
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.2.regtrans-ms
+	../NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.blf
+	../NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TM.blf
+	../NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000001.regtrans-ms
+	../NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000002.regtrans-ms
+	../NTUSER.DAT{2189b89e-98ca-11e9-96d6-0087114746a2}.TM.blf
+	../NTUSER.DAT{2189b89e-98ca-11e9-96d6-0087114746a2}.TMContainer00000000000000000001.regtrans-ms
+	../NTUSER.DAT{2189b89e-98ca-11e9-96d6-0087114746a2}.TMContainer00000000000000000002.regtrans-ms
+	../OneDrive/
+	../Pictures/
+	../Recent/
+	../Saved Games/
+	../Searches/
+	../SendTo/
+	../Start Menu/
+	../Videos/
+	../git_project/
+	../my-app/
+	../ntuser.dat.LOG1
+	../ntuser.dat.LOG2
+	../ntuser.ini
+	../package-lock.json
+
